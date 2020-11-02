@@ -4,7 +4,7 @@ import SignUpForm from '@/page/Auth/SignUpForm'
 import LogInForm from '@/page/Auth/LogInForm'
 import UserProfileSettings from '@/components/User/Settings/UserProfileSettings'
 import UserPasswordSettings from '@/components/User/Settings/UserPasswordSettings'
-import Home from '@/page/Tweetr/index'
+import Home from '@/page/tweetr/index'
 import SingleTweet from '@/components/Tweet/SingleTweet'
 import UserProfile from '@/page/User/index'
 

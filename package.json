@@ -12,7 +12,7 @@
   "dependencies": {
     "@adonisjs/websocket-client": "^1.0.9",
     "@babel/polyfill": "^7.8.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "croppie": "^2.6.4",
     "moment": "^2.24.0",
     "node-sass": "^4.13.1",

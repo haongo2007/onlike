@@ -15,7 +15,7 @@
     "axios": "^0.19.2",
     "croppie": "^2.6.4",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.3.1",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-vue": "^0.10.1",

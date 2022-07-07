@@ -14,7 +14,7 @@
     "@babel/polyfill": "^7.8.3",
     "axios": "^0.19.2",
     "croppie": "^2.6.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-sass": "^4.13.1",
     "sass-loader": "^7.3.1",
     "semantic-ui-css": "^2.4.1",
